@@ -1,16 +1,10 @@
 # weather_app
+Nama: Rahaditya Muhammad Damar Riyadhi
+NIM: 221511027
 
-A new Flutter project.
+# Screenshots
+Celcius
+![celcius](https://github.com/rahadityam/weather_app/assets/118250886/559e81f1-db2f-4a22-866a-0bcbed3a119f)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Fahrenheit
+![fahrenheit](https://github.com/rahadityam/weather_app/assets/118250886/87138791-7edc-4d07-89f7-f0f0adc681a2)
